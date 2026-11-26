@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite the associated research article."
+title: "Temporal Runtime Reconstruction"
+type: software
+authors:
+  - family-names: "Muhammad"
+    given-names: "Abdul Haris"
+  - family-names: "Mandar"
+    given-names: "Gamaria"
+  - family-names: "Assagaf"
+    given-names: "Agil"
+  - family-names: "Suratin"
+    given-names: "Muhammad Dzikrullah"
+version: 1.0.0
+date-released: 2026-11-26
+repository-code: "TO_BE_ADDED"
+license: MIT
